@@ -6,8 +6,8 @@ Electron X (Twitter) desktop app for Linux and BSD
 ## Supported OS
 | Os | Status | Version |
 | ---|---|---|
-| Linux (deb/rpm) | ✅ | 2.0.0 |
-| Linux (AppImage) | ✅ | 2.0.0 |
+| Linux (deb/rpm) | ✅ | 2.1.0 |
+| Linux (AppImage) | ✅ | 2.1.0 |
 | Windows | ✅ | 1.0.0 |
 | BSD | ⚒️ | x.x.x |
 | MacOS | ⚒️ | x.x.x |
