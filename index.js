@@ -14,7 +14,7 @@ function createWindow() {
         height: 800,
         minWidth: 800,
         minHeight: 600,
-        title: "Y Desktop Version 2.5.0",
+        title: "Y Desktop Version 2.1.1",
         icon: path.join(__dirname, "assets/twitter.png"),
                                    autoHideMenuBar: true,
                                    titleBarStyle: "hiddenInset",
